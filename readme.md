@@ -40,3 +40,8 @@ This app is deployed via github actions on github pages for this repository.
 ## License
 
 MIT
+# NH Token Contract
+- Verified by: Nishant Thaker
+- Code Hash: mg+Y3W+/Il7vgWXk5kQX7pMffuoABlNDnntdzcBkTNY=
+- Verified via https://verifier.ton.org
+- 
